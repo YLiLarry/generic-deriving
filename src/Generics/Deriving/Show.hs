@@ -18,7 +18,7 @@
 module Generics.Deriving.Show (
   -- * Generic show class
     GShow(..)
-
+  , GShow'(..)
   -- * Default definition
   , gshowsPrecdefault
 
