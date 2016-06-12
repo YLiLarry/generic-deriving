@@ -21,7 +21,7 @@
 module Generics.Deriving.Eq (
   -- * Generic show class
     GEq(..)
-
+  , GEq'
   -- * Default definition
   , geqdefault
 
